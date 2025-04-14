@@ -8,7 +8,7 @@ const apiEmail = "ztmpekiq@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "4c3c93c41cc5d7cbff85384f54704774"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "dedb44643f26acbabf76bcbcf355e09b"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "";
+let proxyIP = "https://raw.githubusercontent.com/faisalztm/Nautica/refs/heads/main/proxyList.txt";
 let cachedProxyList = [];
 
 // Constant
